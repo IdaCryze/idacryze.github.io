@@ -1,0 +1,39 @@
+body {
+    background-color: darkgray;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 98vh;
+}
+
+#title {
+    color: white;
+    margin: 6pt;
+}
+
+#navbar {
+    background-color: gray;
+}
+
+#navels {
+    float: right;
+}
+
+.navlnk {
+    text-decoration: none;
+}
+
+.navbtn {
+    font-size: x-large;
+    color: white;
+    background-color: black;
+    border-color: black;
+    border-style: double;
+    border-radius: 16px;
+    margin: 6pt;
+}
+
+#bottom {
+    text-align: center;
+    margin-top: auto;
+}
